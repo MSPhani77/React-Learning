@@ -1,0 +1,22 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "app.js",
+  "scripts": {
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSPhani77/React-Learning.git"
+  },
+  "author": "shyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSPhani77/React-Learning/issues"
+  },
+  "homepage": "https://github.com/MSPhani77/React-Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
